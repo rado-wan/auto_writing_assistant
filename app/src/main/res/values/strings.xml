@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Writing Assistant</string>
+    <string name="accessibility_service_label">Writing Assistant Floating Button</string>
+    <string name="accessibility_service_description">Displays a floating button over editable text fields to quickly paste customizable dates, times, days, and saved text templates.</string>
+</resources>

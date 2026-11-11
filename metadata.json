@@ -1,0 +1,6 @@
+{
+  "name": "Writing Assistant",
+  "description": "Minimal, polished floating paste button for quick insertion of customizable date, time, day, and saved texts with variables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
